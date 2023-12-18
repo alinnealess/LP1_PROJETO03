@@ -1,0 +1,89 @@
+Roberto
+000.111.222-33
+01/01/1980
+1
+Rua Salgado Filho
+Conceição
+São Paulo
+01234-567
+123
+00000001-1
+3589.57
+Departamento de Ensino
+40
+03/03/2010
+5
+4
+Linguagem de Programação I
+
+Maria
+111.222.333-44
+15/05/1975
+2
+Avenida Brasil
+Centro
+Rio de Janeiro
+98765-432
+456
+00000002-2
+4500.00
+Departamento de Ciências da Computação
+35
+10/10/2005
+4
+4
+Algoritmos e Estruturas de Dados
+
+João
+222.333.444-55
+20/07/1985
+3
+Av Sen Salgado Filho
+Tirol
+Natal
+59000-000
+789
+00000003-3
+5000.00
+Departamento de Engenharia de Software
+30
+05/05/2012
+3
+3
+Engenharia de Software
+
+Ana
+333.444.555-66
+10/12/1990
+2
+Avenida das Palmeiras
+Jardins
+Rio de Janeiro
+98765-432
+987
+00000004-4
+6000.00
+Departamento de Matemática Computacional
+25
+15/09/2010
+4
+3
+Cálculo I
+
+Pedro
+444.555.666-77
+05/03/1988
+1
+Rua dos Pinheiros
+Vila Madalena
+São Paulo
+01234-567
+654
+00000005-5
+5500.00
+Departamento de Matemática Computacional
+20
+20/02/2015
+5
+4
+Fundamentos de Matemática Computacional 2

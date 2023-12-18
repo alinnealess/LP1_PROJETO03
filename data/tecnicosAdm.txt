@@ -1,0 +1,84 @@
+Rafaela
+000.111.222-33
+01/01/1980
+2
+Rua Salgado Filho
+Conceição
+São Paulo
+01234-567
+123
+00000101-1
+3000.00
+Coordenação de Curso
+40
+03/03/2003
+0.15
+Secretária de Curso
+
+Mariana
+444.555.666-77
+05/05/1995
+2
+Avenida das Palmeiras
+Praia
+Fortaleza
+76543-210
+654
+00000202-2
+4000.00
+Departamento de TI
+40
+05/05/2015
+0.05
+Analista de TI
+
+João
+333.444.555-66
+06/06/1996
+1
+Avenida Litoral
+Ponta Negra
+Natal
+59000-210
+465
+00000303-3
+5000.00
+Departamento de Dados
+44
+06/06/2016
+0.10
+Analista de Dados
+
+Carlos
+999.999.999-99
+07/07/1997
+1
+Avenida Roberto Freire
+Capim Macio
+Natal
+59000-300
+331
+00000444-4
+3500.00
+Departamento de Gestão
+44
+07/07/2017
+0.01
+Gerente
+
+Maria
+888.888.888-88
+02/02/1988
+2
+Avenida das Nações
+Ribeira
+João Pessoa
+58000-000
+555
+00005500-5
+6500.00
+Departamento de Planejamento
+44
+08/08/2008
+0.20
+Diretora
